@@ -1,0 +1,3 @@
+variable "random_number" {
+  type = object
+}
